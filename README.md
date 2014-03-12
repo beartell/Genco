@@ -10,4 +10,3 @@ Anatolia provides the following functionality of NoSQL databases;
  "Fault Tolerance"
  
  "Decentralization"
-

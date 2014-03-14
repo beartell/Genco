@@ -1,4 +1,4 @@
-Anatolia
+Genco
 ========
 
-Anatolia => remote connection manager.
+Genco => remote connection manager.
